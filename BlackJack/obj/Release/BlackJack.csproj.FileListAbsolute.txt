@@ -1,0 +1,15 @@
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\bin\Release\BlackJack.exe.config
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\bin\Release\BlackJack.exe.manifest
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\bin\Release\BlackJack.application
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\bin\Release\BlackJack.exe
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\bin\Release\BlackJack.pdb
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.csprojAssemblyReference.cache
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.Form1.resources
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.Properties.Resources.resources
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.ReplicaForm.resources
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.Tablero.resources
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.csproj.GenerateResource.cache
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.exe.manifest
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.application
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.exe
+C:\Users\Brandon Velasquez\Desktop\JUEGO\BlackJack\BlackJack\obj\Release\BlackJack.pdb
